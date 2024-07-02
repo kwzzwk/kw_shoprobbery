@@ -14,5 +14,5 @@
 - ox_inventory
 - esx for needed police
 
-Video: 
+Video: https://youtu.be/eMRV62dDGrE
 Discord: https://discord.gg/Txmp68Jj8C
